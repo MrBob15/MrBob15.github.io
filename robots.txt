@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mrbob15.github.io/sitemap.xml
